@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84ede85e-febc-4f5b-8d50-5dc151a5dff2" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="DeleteLabel.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DatabaseService/LabelService/DeleteLabel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="32" column="15" lean-forward="false" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+              <folding>
+                <marker date="1512411485546" expanded="true" signature="391:450" ph="DELETE from " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DatabaseService/UserService.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/UserService/UserService.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/UserService/LoginUser" />
+        <option value="$PROJECT_DIR$/DatabaseService/UserService/LoginUser.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/UserService/ModifyUser.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/NoteService/NoteList.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/NoteService/ShowNote.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/NoteService/ChangeBook.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/UserService/AddUser.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/NoteService/AddNote.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/BookService/AddBook.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/NoteService/ModifyNote.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/BookService/ModifyBook.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/NoteService/DeleteNote.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/BookService/DeleteBook.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/BookService/ShowBook.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/NoteService/SearchNote.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/BookService/SearchBook.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/BookService/GetNotes.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/ShareService/AddShare.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/ShareService/GetDroit.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/FollowService/GetFollower.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/LabelService/AddLabel.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/FollowService/AddFollow.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/LabelService/GetNoteByLabel.php" />
+        <option value="$PROJECT_DIR$/DatabaseService/LabelService/DeleteLabel.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1">
+    <include_path>
+      <path value="" />
+      <path value="" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyNote" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="MyNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyNote" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="DatabaseService" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="MyNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyNote" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="DatabaseService" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="BookService" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="MyNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyNote" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="DatabaseService" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="FollowService" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="MyNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyNote" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="DatabaseService" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="LabelService" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="MyNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyNote" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="DatabaseService" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="NoteService" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="MyNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyNote" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="DatabaseService" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ShareService" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\软件学院\大三一\面向web的计算\大作业\MyNote\DatabaseService\UserService" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.ShowNote.php">
+    <configuration name="AddNote.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MyNote/DatabaseService/NoteService/AddNote.php" />
+    <configuration name="AddUser.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MyNote/DatabaseService/UserService/AddUser.php" />
+    <configuration name="ModifyNote.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MyNote/DatabaseService/NoteService/ModifyNote.php" />
+    <configuration name="ShowNote.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MyNote/DatabaseService/NoteService/ShowNote.php" />
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.AddUser.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.AddNote.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.ModifyNote.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.ShowNote.php" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.ShowNote.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.ModifyNote.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.AddNote.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.AddUser.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84ede85e-febc-4f5b-8d50-5dc151a5dff2" name="Default" comment="" />
+      <created>1512360591456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512360591456</updated>
+      <workItem from="1512360593148" duration="31372000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31372000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DatabaseService/UserService/ModifyUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="44" column="4" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="19" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+            <marker date="1512379799313" expanded="true" signature="460:490" ph="SELECT * fro... USER" />
+            <marker date="1512379799313" expanded="true" signature="460:495" ph="SELECT * fro... USER" />
+            <marker date="1512379799313" expanded="true" signature="883:927" ph="INSERT INTO USER... " />
+            <marker date="1512379799313" expanded="true" signature="883:929" ph="UPDATE USER " />
+            <marker date="1512379799313" expanded="true" signature="883:932" ph="UPDATE USER " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/NoteService/ChangeBook.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+          <folding>
+            <marker date="1512393977140" expanded="true" signature="474:532" ph="UPDATE NOTE " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/BookService/AddBook.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="59" column="39" lean-forward="false" selection-start-line="59" selection-start-column="39" selection-end-line="59" selection-end-column="39" />
+          <folding>
+            <marker date="1512394459197" expanded="true" signature="450:514" ph="SELECT * fro... NOTE" />
+            <marker date="1512394459197" expanded="true" signature="972:1064" ph="INSERT INTO NOTE... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/NoteService/ModifyNote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+          <folding>
+            <marker date="1512394562790" expanded="true" signature="502:563" ph="UPDATE NOTE " />
+            <marker date="1512394562790" expanded="true" signature="502:580" ph="UPDATE NOTE " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/BookService/ModifyBook.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="40" column="4" lean-forward="true" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+          <folding>
+            <marker date="1512395603867" expanded="true" signature="485:560" ph="UPDATE BOOK " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/BookService/DeleteBook.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <marker date="1512395603820" expanded="true" signature="369:408" ph="DELETE from " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/BookService/ShowBook.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+          <folding>
+            <marker date="1512396330070" expanded="true" signature="437:478" ph="SELECT * fro... BOOK" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/NoteService/SearchNote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <marker date="1512398465211" expanded="true" signature="462:528" ph="SELECT * fro... NOTE" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/BookService/SearchBook.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <marker date="1512398465061" expanded="true" signature="462:527" ph="SELECT * fro... BOOK" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/NoteService/NoteList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <marker date="1512393405640" expanded="true" signature="429:470" ph="SELECT * fro... NOTE" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/sqlite3/sqlite3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="277" column="20" lean-forward="false" selection-start-line="277" selection-start-column="20" selection-end-line="277" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/UserService/LoginUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="38" selection-end-column="2" />
+          <folding>
+            <marker date="1512379799253" expanded="true" signature="366:396" ph="SELECT * fro... USER" />
+            <marker date="1512379799253" expanded="true" signature="366:398" ph="SELECT * fro... USER" />
+            <marker date="1512379799253" expanded="true" signature="366:401" ph="SELECT * fro... USER" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/UserService/AddUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <marker date="1512394458997" expanded="true" signature="366:396" ph="SELECT * fro... USER" />
+            <marker date="1512394458997" expanded="true" signature="366:401" ph="SELECT * fro... USER" />
+            <marker date="1512394458997" expanded="true" signature="771:835" ph="INSERT INTO USER... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/ShareService/GetDroit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <marker date="1512404231560" expanded="true" signature="486:526" ph="SELECT * fro... SHARE" />
+            <marker date="1512404231560" expanded="true" signature="486:551" ph="SELECT * fro... SHARE" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/NoteService/ShowNote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="47" selection-end-column="2" />
+          <folding>
+            <marker date="1512393558844" expanded="true" signature="433:474" ph="SELECT * fro... NOTE" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/FollowService/GetFollower.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+          <folding>
+            <marker date="1512408703976" expanded="true" signature="378:421" ph="SELECT * fro... FOLLOW" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/NoteService/AddNote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="62" selection-end-column="21" />
+          <folding>
+            <marker date="1512394459144" expanded="true" signature="494:558" ph="SELECT * fro... NOTE" />
+            <marker date="1512394459144" expanded="true" signature="1012:1121" ph="INSERT INTO NOTE... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/FollowService/AddFollow.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="37" column="10" lean-forward="false" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+          <folding>
+            <marker date="1512410783804" expanded="true" signature="399:444" ph="SELECT * fro... FOLLOW" />
+            <marker date="1512410783804" expanded="true" signature="399:463" ph="SELECT * fro... FOLLOW" />
+            <marker date="1512410783804" expanded="true" signature="678:748" ph="INSERT INTO FOLLOW... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/ShareService/AddShare.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+          <folding>
+            <marker date="1512403596035" expanded="true" signature="441:545" ph="INSERT INTO SHARE... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/LabelService/AddLabel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <marker date="1512410783935" expanded="true" signature="421:484" ph="SELECT * fro... LABEL" />
+            <marker date="1512410783935" expanded="true" signature="708:797" ph="INSERT INTO LABEL... " />
+            <marker date="1512410783935" expanded="true" signature="795:797" ph="INSERT INTO FOLLOW... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/BookService/GetNotes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <marker date="1512399097866" expanded="true" signature="394:457" ph="SELECT * fro... NOTE" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/LabelService/GetNoteByLabel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <marker date="1512411124152" expanded="true" signature="469:516" ph="SELECT notei... " />
+            <marker date="1512411124152" expanded="true" signature="469:603" ph="SELECT disti... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/NoteService/DeleteNote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding>
+            <marker date="1512395603767" expanded="true" signature="429:468" ph="DELETE from " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseService/LabelService/DeleteLabel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="32" column="15" lean-forward="false" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+          <folding>
+            <marker date="1512411485546" expanded="true" signature="391:450" ph="DELETE from " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
